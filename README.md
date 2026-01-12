@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-radiolofi.netlify.app-blue)](https://radiolofi.netlify.app/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)  
-[![Made by Neonroot](https://img.shields.io/badge/Made%20by-Neonroot-orange)](https://github.com/YourUsername)
+[![Made by Neonroot](https://img.shields.io/badge/Made%20by-Neoroot-orange)](https://github.com/neoroot404)
 
 ---
 
